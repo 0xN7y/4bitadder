@@ -1,5 +1,5 @@
 # 4bitadder
-random program i created while learning.
+random program i created while learning
 
 
 ```sh
